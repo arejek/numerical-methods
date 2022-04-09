@@ -49,4 +49,22 @@ and find
 
 Choose the right algorithm, and make use of the matrix structure. Don't use external libraries unless it's for checking your solution.
 
+## num 3
 
+For matrix:
+
+![A](./svg/num3_1.svg)
+
+and vector:
+
+![b](./svg/num3_2.svg)
+
+![A, b dim](./svg/num3_3.svg)
+
+![b](./svg/num3_4.svg)
+
+solve
+
+![Ay=b](./svg/num3_5.svg)
+
+Implement the right algorithm by yourself, only using external libraries for checking results.
