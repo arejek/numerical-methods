@@ -3,13 +3,13 @@ Some Python programs for 'Numerical methods' class.
 
 ## num 1
 
-For matrices:
+For matrices
 
 ![A1](./svg/num1_1.svg)
 
 ![A2](./svg/num1_2.svg)
 
-and vectors:
+and vectors
 
 ![b1](./svg/num1_3.svg)
 
@@ -29,11 +29,11 @@ find Δi and interpret results.
 
 ## num 2
 
-For matrix: 
+For matrix 
 
 ![A](./svg/num2_1.svg)
 
-and vector:
+and vector
 
 ![x](./svg/num2_2.svg)
 
@@ -51,11 +51,11 @@ Choose the right algorithm, and make use of the matrix structure. Don't use exte
 
 ## num 3
 
-For matrix:
+For matrix
 
 ![A](./svg/num3_1.svg)
 
-and vector:
+and vector
 
 ![b](./svg/num3_2.svg)
 
