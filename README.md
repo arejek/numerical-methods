@@ -27,5 +27,26 @@ find Δi and interpret results.
 
 ![Δi](./svg/num1_8.svg)
 
+## num 2
+
+For matrix: 
+
+![A](./svg/num2_1.svg)
+
+and vector:
+
+![x](./svg/num2_2.svg)
+
+![N](./svg/num2_3.svg)
+
+solve equation
+
+![eq](./svg/num2_4.svg)
+
+and find 
+
+![detA](./svg/num2_5.svg)
+
+Choose the right algorithm, and make use of the matrix structure. Don't use external libraries unless it's for checking your solution.
 
 
